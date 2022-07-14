@@ -1,0 +1,5 @@
+print("Berapa nilai pengurangan dari bilangan berikut, jika x = 255, y = 140, z = 30!!")
+x = eval(input("x = "))
+y = eval(input("y = "))
+z = eval(input("z = "))
+print ("Hasil dari penjumlahan x,y,z adalah", (x - y - z))

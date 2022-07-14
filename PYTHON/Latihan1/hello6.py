@@ -1,0 +1,5 @@
+print("Berapa nilai pembagian dari bilangan berikut, jika x = 81, y = 9, z = 3!!")
+x = eval(input("x = "))
+y = eval(input("y = "))
+z = eval(input("z = "))
+print ("Hasil dari penjumlahan x,y,z adalah", (x / y / z))

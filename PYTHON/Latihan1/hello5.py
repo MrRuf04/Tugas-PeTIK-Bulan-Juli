@@ -1,0 +1,5 @@
+print("Berapa nilai perkalian dari bilangan berikut, jika x = 2, y = 4, z = 5!!")
+x = eval(input("x = "))
+y = eval(input("y = "))
+z = eval(input("z = "))
+print ("Hasil dari penjumlahan x,y,z adalah", (x * y * z))
